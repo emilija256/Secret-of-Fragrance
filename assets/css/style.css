@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+a{
+    color: #fff !important;
+}
+.navbar-brand{
+    font-size: 19px;
+}
+header{
+    background-color: #ffaadd !important;
+}
+.tekst{
+    font-size: 20px;
+}
+h2{
+    font-family: 'Nunito', cursive !important;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: #ffaadd;
+}
+section{
+   margin: 50px 0px;
+}
+h3{
+    font-family: 'Nunito', cursive !important;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #ffaadd;
+}
+strong{
+    color: #ffaadd;
+}
+footer{
+    background-color: #ffaadd;
+}
+h6{
+    color: #fff;
+}
+main{
+    margin: 50px 0px;
+}
+.slikaonama{
+    width: 80%;
+    height: 550px;
+    margin:0px 50px;
+}
+
+.slikaonama1{
+    width: 80%;
+    height: 550px;
+}
+.slikaautor{
+    width: 70%;
+    height: 500px;
+}
+.proivodi{
+    max-width: 100%;
+    overflow-x: auto;
+    height: 350px;
+}
+h5{
+    color: #000;
+    margin-top: 10px;
+}
+h4{
+    color: #ffaadd;
+}
+.btn-color{
+    background-color: #ffaadd;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.proivodi1{
+    width: 100%;
+    overflow-x: auto;
+    height: 500px;
+}
+.dugme_boja{
+    background-color: #ffaadd !important;
+}
+.dugme_poruci{
+    background-color: #ffaadd !important;
+}

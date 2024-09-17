@@ -1,0 +1,34 @@
+@media only screen and (max-width: 770px){
+    h2{
+        margin-bottom: 40px;
+        font-size: 25px !important;
+    }
+    section{
+        margin: 40px 0px;
+    }
+    h3{
+        margin-bottom: 20px;
+        font-size: 20px !important;
+    }
+    .slikaonama{
+        margin: 0px 0px !important;
+    }
+}
+
+@media only screen and (max-width: 995px){
+    .slikaonama{
+        width: 100% !important;
+    }
+    .slikaonama1{
+        width: 100% !important;
+    }
+    .slikaautor{
+        width: 100% !important;
+    }
+}
+
+
+
+
+
+
